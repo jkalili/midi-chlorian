@@ -8,7 +8,6 @@ This repository is the home of Midi-Chlorian, a language inspired by the mind of
 
 Midi-Chlorian is created by [Carter Pon](https://github.com/cpon00), [Adrian Leung](https://github.com/AdrianLearn), [Isaiah Anyimi](https://github.com/ianyimi), and [Jason Kalili](https://github.com/jkalili).
 
-</br>
 
 # Shortcuts
 
@@ -37,7 +36,6 @@ Midi-Chlorian is created by [Carter Pon](https://github.com/cpon00), [Adrian Leu
 |       array        |     tome      | tome\<transmission> g = ["Execute","Order","66"]      |
 |     dictionary     |   holocron    |  holocron\<transmission,cred> g = [exe:34, evc: 32]   |
 
-</br>
 
 
 # Boolean Values
@@ -65,7 +63,6 @@ Midi-Chlorian is created by [Carter Pon](https://github.com/cpon00), [Adrian Leu
 |   a && b   |    a and b    |
 |   a or b   |    a or b     |
 
-</br>
 
 ### Unary Operators
 
@@ -76,14 +73,12 @@ Midi-Chlorian is created by [Carter Pon](https://github.com/cpon00), [Adrian Leu
 | negative: `-`     | `Numbers`     |
 | negation: `darth` | `Booleans`    |
 
-<br/>
 
 # Comments
 
 -   Single Line: `>< comment goes here`
 -   Block: `>> comment goes here << `
 
-<br/>
 
 # Examples
 
